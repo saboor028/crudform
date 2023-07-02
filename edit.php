@@ -64,7 +64,7 @@ if (isset($_POST["submit"])) {
                           Tour
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                          <li><a class="dropdown-item" href="add-new.php">Crud form</a></li>
+                          <li><a class="dropdown-item" href="index.php">Crud form</a></li>
                           <li><hr class="dropdown-divider"></li>
                           <li><a class="dropdown-item" href="newspaper.html">NewsPaper</a></li>
                         </ul>
